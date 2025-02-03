@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/my-erc20-token-dapp/static/css/main.698a313b.css",
+    "main.js": "/my-erc20-token-dapp/static/js/main.6f7333e8.js",
+    "static/js/453.7d602bfa.chunk.js": "/my-erc20-token-dapp/static/js/453.7d602bfa.chunk.js",
+    "index.html": "/my-erc20-token-dapp/index.html",
+    "main.698a313b.css.map": "/my-erc20-token-dapp/static/css/main.698a313b.css.map",
+    "main.6f7333e8.js.map": "/my-erc20-token-dapp/static/js/main.6f7333e8.js.map",
+    "453.7d602bfa.chunk.js.map": "/my-erc20-token-dapp/static/js/453.7d602bfa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.698a313b.css",
+    "static/js/main.6f7333e8.js"
+  ]
+}
